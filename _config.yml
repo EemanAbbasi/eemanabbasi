@@ -23,7 +23,7 @@ repository               : "eemanabbasi"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "github_img.png"
   name             : "Eeman Abbasi"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist | Microbial Ecologist | Computer Scientist"
