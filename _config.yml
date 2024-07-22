@@ -11,7 +11,9 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Eeman Abbasi"
-description              : &description "Data Scientist | Microbial Ecologist | Computer Scientist"
+description              : &description "I am passionate about exploring the emerging field of ecological medicine and contributing to the development of innovative and integrative solutions for complex biomedical problems.
+
+In bachelors I double majored in computer science and biological sciences. At present, I am a PhD candidate in microbial ecology at the University of Pennsylvania, where I use a mixture of mathematical/computational models and bioinformatic pipelines to uncover the role of host immune response and diet in structuring the microbiome. My research has the potential to advance the understanding of host-microbiome interactions and their implications for human health and disease."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eemanabbasi"
